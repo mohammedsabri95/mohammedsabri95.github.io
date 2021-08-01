@@ -83,7 +83,7 @@ author:
   name             : "Mohammed Sabri"
   avatar           : "profile.png"
   bio              : "Ph.D. student"
-  #email            : "&#x6D;&#x6F;&#x68;&#x61;&#x6D;&#x6D;&#x65;&#x64;&period;&#x73;&#x61;&#x62;&#x72;&#x69;&commat;&#x75;&#x73;&#x6D;&#x62;&#x61;&period;&#x61;&#x63;&period;&#x6D;&#x61;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : "sabri.mohammed@unicampania.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Casablanca, Morocco"
   employer         :
   pubmed           :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mohammesabri95"
+  twitter          : "mohammed_sabri4"
 
 
 # Reading Files
