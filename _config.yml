@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mohammed Sabri"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student"
+  #email            : "&#x6D;&#x6F;&#x68;&#x61;&#x6D;&#x6D;&#x65;&#x64;&period;&#x73;&#x61;&#x62;&#x72;&#x69;&commat;&#x75;&#x73;&#x6D;&#x62;&#x61;&period;&#x61;&#x63;&period;&#x6D;&#x61;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  location         : "Casablanca, Morocco"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+ # googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,25 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mohammedsabri95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mohammedsabri95"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "mohammesabri95"
 
 
 # Reading Files
