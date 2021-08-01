@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage of Mohammed Sabri"
+subtitle                 : "Ph.d. Candidate | Data Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mohammed Sabri"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mohammedsabri95.github.io/mohammedsabri/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aki-nishimura/aki-nishimura.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -46,8 +47,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -80,14 +79,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mohammed Sabri"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student"
+  email            : "&#x6D;&#x6F;&#x68;&#x61;&#x6D;&#x6D;&#x65;&#x64;&period;&#x73;&#x61;&#x62;&#x72;&#x69;&commat;&#x75;&#x73;&#x6D;&#x62;&#x61;&period;&#x61;&#x63;&period;&#x6D;&#x61;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  location         : "Casablanca, Morocco"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+ # googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,25 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mohammedsabri95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mohammedsabri95"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "mohammesabri95"
 
 
 # Reading Files
