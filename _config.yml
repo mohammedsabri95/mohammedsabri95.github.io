@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage of Akihiko Nishimura"
+subtitle                 : "(Bayesian) Statistician / (Biomedical) Data Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Akihiko (Aki) Nishimura"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aki-nishimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aki-nishimura/aki-nishimura.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -46,8 +47,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -82,13 +81,13 @@ analytics:
 author:
   name             : "Mohammed Sabri"
   avatar           : "profile.png"
-  bio              : "Ph.D. student"
-  email            : "sabri.mohammed@unicampania.it" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
-  location         : "Casablanca, Morocco"
+  bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
+  email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  location         : "Baltimore, MD"
   employer         :
   pubmed           :
- # googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
-
+  googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mohammedsabri95"
+  github           : "aki-nishimura"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mohammedsabri95"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-6932-2513"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mohammed_sabri4"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+  twitter          : "_aki_nishimura"
 
 
 # Reading Files
