@@ -2,9 +2,6 @@
 main:
   - title: "About"
     url: /about/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -15,7 +12,9 @@ main:
   - title: "Posts"
     url: /posts/
     
-   
+  - title: "CV"
+    url: /cv/
+    
   #- title: "Teaching"
   #  url: /teaching/    
     
