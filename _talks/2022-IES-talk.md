@@ -5,7 +5,6 @@ type: 'Talk'
 permalink: /talks/2022-IES-talk
 venue: 'Department of Economics of the University of Campania Luigi Vanvitelli via Gran Priorato di Malta, Capua (CE)'
 date: 2022-27-01
-**location: "San Francisco, California"**
-
+location: "Capua, Italy"
 
 ---
