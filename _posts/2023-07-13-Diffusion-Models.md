@@ -1,5 +1,5 @@
 ---
-title: 'Diffusion Models From Scratch
+title: 'Diffusion Models From Scratch'
 date: 2023-07-13
 permalink: /posts/2023/07/gene/
 tags:
