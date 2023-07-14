@@ -1,5 +1,5 @@
 ---
-title: 'Generative Models From Sratch'
+title: 'Diffusion Models From Scratch
 date: 2023-07-13
 permalink: /posts/2023/07/gene/
 tags:
@@ -8,7 +8,7 @@ tags:
   - Diffusion models
 ---
 
-Let's join me to understand all aspects concerning Generative Models.
+Let's join me in understanding all aspects concerning Diffusion Models.
 
 Introduction
 ======
