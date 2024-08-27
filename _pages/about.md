@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 Hi! My name is Mohammed Sabri. I am a Ph.D. Candidate in [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [University of Campania “Luigi Vanvitelli”](https://international.unicampania.it/index.php/en/) under supervision of Prof. [Rosanna Verde](https://www.researchgate.net/profile/Rosanna_Verde).
