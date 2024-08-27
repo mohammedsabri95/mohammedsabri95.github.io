@@ -16,3 +16,10 @@ My PhD thesis topic is New Methods in Functional Data Analysis.
 
 
 I'm always excited to collaborate on new projects and discuss ideas in data science and machine learning. Feel free to reach out if you'd like to connect!
+
+# Selected Publications
+
+## NASDM, Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models
+Aman Shrivastava and P. Thomas Fletcher
+A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors. Journal of Classification (2024): 1-25.
+[paper](https://link.springer.com/article/10.1007/s00357-024-09471-5)
