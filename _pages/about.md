@@ -17,7 +17,7 @@ My PhD thesis topic is New Methods in Functional Data Analysis.
 
 I'm always excited to collaborate on new projects and discuss ideas in data science and machine learning. Feel free to reach out if you'd like to connect!
 
-# Selected Publications
+# 📝 Selected Publications
 
 ## A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors.
 Sabri M., Verde R., Maturo F., Balzanella A., Tairi H., Yahyaouy A., and Riffi J.
