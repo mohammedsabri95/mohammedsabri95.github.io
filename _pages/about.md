@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
 ---
 
 # About me
@@ -26,21 +23,18 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 # Publications
 
 {% raw %}
-{% capture publications_content %}
-{% include_relative _pages/publications.md %}
-{% endcapture %}
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-{{ publications_content | markdownify }}
+{% for pub in site.publications reversed %}
+  <div class="publication">
+    <h3>{{ pub.title }}</h3>
+    <p>{{ pub.authors }}</p>
+    <p><em>{{ pub.venue }}</em>, {{ pub.date | default: "1900-01-01" | date: "%Y" }}</p>
+    {% if pub.paperurl %}
+      <p>Download <a href="{{ pub.paperurl }}"><u>here</u></a></p>
+    {% endif %}
+  </div>
+{% endfor %}
 {% endraw %}
-
-# Talks
-
-[Your talks content goes here]
-
-# Posts
-
-[Your posts content goes here]
-
-# CV
-
-[Your CV content goes here]
