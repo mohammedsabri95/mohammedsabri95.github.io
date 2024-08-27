@@ -16,16 +16,3 @@ My PhD thesis topic is New Methods in Functional Data Analysis.
 
 
 I'm always excited to collaborate on new projects and discuss ideas in data science and machine learning. Feel free to reach out if you'd like to connect!
-
-
-# Publications
-
-{% raw %}
-{% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% for pub in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endraw %}
