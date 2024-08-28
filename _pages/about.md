@@ -28,3 +28,9 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 > **Sabri M.**, Verde R. and Balzanella A. <br>
 > **Applied Stochastic Models in Business and Industry** (2024). <br>
 > [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2868)
+
+# 📖 Education
+- **2020 - present:** Computer Science PhD &#124; Università degli studi della Campania Luigi Vanvitelli, Italy
+- **2018 - 2019:** Masters in Data Science and Business Intelligence &#124; University of Paris Nord (Paris XIII), France
+- **2017 - 2018:** Masters in Data Science and Applied Mathematics &#124; University of Sidi Mohamed Ben Abdellah, Morocco
+- **2013 - 2017:** Bachelors in Applied Mathematics And Computer Science &#124; Chouaib Doukkali University, Morocco 
