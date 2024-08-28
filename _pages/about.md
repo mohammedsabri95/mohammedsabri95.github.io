@@ -19,7 +19,7 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 
 # 📝 Selected Publications
 
-> ## <span style="font-size: 0.8em;">A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors.</span> <br>
+> ## <span style="font-size: 0.5em;">A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors.</span> <br>
 > **Sabri M.**, Verde R., Maturo F., Balzanella A., Tairi H., Yahyaouy A., and Riffi J. <br>
 > **Journal of Classification** 41, 264–288 (2024). <br>
 > [paper](https://link.springer.com/article/10.1007/s00357-024-09471-5)
