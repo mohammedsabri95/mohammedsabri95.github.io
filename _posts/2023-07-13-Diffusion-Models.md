@@ -16,3 +16,6 @@ Let's begin our journey into the world of Diffusion Models!
 # Generative Models: Creating from Data
 
 Generative models are a class of machine learning models that aim to generate new data samples that resemble a given dataset. In essence, these models learn the underlying distribution of the training data and can then produce new, previously unseen samples from this learned distribution.
+
+Before Diffusion Models gained prominence, two main types of generative models dominated the field:
+
