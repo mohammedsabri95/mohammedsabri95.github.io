@@ -19,3 +19,4 @@ Generative models are a class of machine learning models that aim to generate ne
 
 Before Diffusion Models gained prominence, two main types of generative models dominated the field:
 
+## 1. Generative Adversarial Networks (GANs)
