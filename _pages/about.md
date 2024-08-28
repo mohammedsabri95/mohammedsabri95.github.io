@@ -19,7 +19,7 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 
 # 📝 Selected Publications
 
-> ## A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors. <br>
+> ## <span style="font-size: 0.8em;">A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors.</span> <br>
 > **Sabri M.**, Verde R., Maturo F., Balzanella A., Tairi H., Yahyaouy A., and Riffi J. <br>
 > **Journal of Classification** 41, 264–288 (2024). <br>
 > [paper](https://link.springer.com/article/10.1007/s00357-024-09471-5)
@@ -33,4 +33,20 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 - **2020 - present:** Computer Science PhD &#124; Università degli studi della Campania Luigi Vanvitelli, Italy
 - **2018 - 2019:** Masters in Data Science and Business Intelligence &#124; University of Paris Nord (Paris XIII), France
 - **2017 - 2018:** Masters in Data Science and Applied Mathematics &#124; University of Sidi Mohamed Ben Abdellah, Morocco
-- **2013 - 2017:** Bachelors in Applied Mathematics And Computer Science &#124; Chouaib Doukkali University, Morocco 
+- **2013 - 2017:** Bachelors in Applied Mathematics And Computer Science &#124; Chouaib Doukkali University, Morocco
+
+# 👨‍🏫 Teaching / Talks
+- 2023
+  - **Co-instructor** for Geometry of Data &#124; University of Virginia &#124; [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
+  - **Oral Presentation** at MICCAI 2023
+  - **Invited Speaker** for Research Speaker Series &#124; PathAI
+  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
+- 2022
+  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
+  - **Teaching Assistant** for Geometry of Data &#124; University of Virginia
+  - **Teaching Assistant** for Machine Learning &#124; University of Virginia
+  - **Python Instructor** for SOAR Scholars Program &#124; University of Virginia
+- 2019
+  - **Python Instructor** for Health Sciences Library &#124; University of Virginia
+  - **Assistant Capstone Advisor** for School of Data Science &#124; University of Virginia
+  - **Invited Speaker** for Applied Machine Learning Conference &#124; Tom Tom Festival 
