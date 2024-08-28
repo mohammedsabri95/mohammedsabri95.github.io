@@ -24,7 +24,7 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 > **Journal of Classification** 41, 264–288 (2024). <br>
 > [paper](https://link.springer.com/article/10.1007/s00357-024-09471-5)
 
-> ## K‐Fuse: Credit card fraud detection based on a classification method with a priori class partitioning and a novel feature selection strategy. <br>
+> ## <span style="font-size: 0.3em;"> K‐Fuse: Credit card fraud detection based on a classification method with a priori class partitioning and a novel feature selection strategy. </span> <br>
 > **Sabri M.**, Verde R. and Balzanella A. <br>
 > **Applied Stochastic Models in Business and Industry** (2024). <br>
 > [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2868)
