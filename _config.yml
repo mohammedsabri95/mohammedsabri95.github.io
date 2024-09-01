@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "<a href="https://twitter.com/mohammed_sabri4" target="_blank" rel="noopener noreferrer">@mohammed_sabri4</a>"
+  twitter          : "{% if site.twitter %} <a href="{{ site.twitter_url }}" target="_blank" rel="noopener noreferrer"> @{{ site.twitter }} </a> {% endif %}"
   vine             :
   weibo            :
   xing             :
