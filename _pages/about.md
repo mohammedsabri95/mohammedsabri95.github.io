@@ -43,3 +43,60 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 - 2023
   - **Teaching Assistant** for Object-Oriented Programming &#124; University of Sidi Mohamed Ben Abdellah
   - **Python Instructor** for Summer School &#124; University of Sidi Mohamed Ben Abdellah
+
+<section id="teaching-talks">
+  <h2>Teaching / Talks</h2>
+  
+  <h3>Instructor Roles</h3>
+  <ul>
+    <li>
+      <strong>Statistical Learning Instructor</strong> | <a href="https://www.unicampania.it/">University of Campania Luigi Vanvitelli</a>
+      <ul>
+        <li>Academic Year 2023-2024</li>
+        <li><a href="#">Link to course page</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Python Instructor</strong> | <a href="http://www.usmba.ac.ma/">University of Sidi Mohamed Ben Abdellah</a>
+      <ul>
+        <li>Summer School, July-August 2023</li>
+        <li>Taught introductory Python programming to 30+ students</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h3>Teaching Assistant Roles</h3>
+  <ul>
+    <li>
+      <strong>Object-Oriented Programming TA</strong> | <a href="http://www.usmba.ac.ma/">University of Sidi Mohamed Ben Abdellah</a>
+      <ul>
+        <li>Spring Semester 2023</li>
+        <li>Assisted in lab sessions and graded assignments for 100+ students</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h3>Invited Talks</h3>
+  <ul>
+    <li>
+      <strong>Seminar Talk</strong>: "[Topic of your talk]" | <a href="http://www.unina.it/">University of Naples Federico II</a>
+      <ul>
+        <li>Date: [Month Day, 2024]</li>
+        <li>[Brief description or key points]</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Seminar Talk</strong>: "[Topic of your talk]" | <a href="https://www.unicampania.it/">University of Campania Luigi Vanvitelli</a>
+      <ul>
+        <li>Date: [Month Day, 2024]</li>
+        <li>[Brief description or key points]</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h3>Achievements</h3>
+  <ul>
+    <li>Received outstanding teaching evaluation scores (4.8/5.0) for Statistical Learning course</li>
+    <li>Developed innovative coding exercises for Python Summer School, later adopted by the department</li>
+  </ul>
+</section>
