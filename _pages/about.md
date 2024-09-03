@@ -36,7 +36,6 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 - **2013 - 2017:** Bachelors in Applied Mathematics And Computer Science &#124; Chouaib Doukkali University, Morocco
 
 # 👨‍🏫 Teaching / Talks
-Lecturing experience
 - 2024
   - **Instructor** for Statistical Learning &#124; [University of Campania Luigi Vanvitelli](https://www.matfis.unicampania.it/dipartimento/avvisi/655-avviso-inizio-corso-statistical-learning-data-analytics-2) &#124; 2023-2024
   - **Seminar talk** at University of Naples Federico II
