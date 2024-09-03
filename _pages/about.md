@@ -36,17 +36,11 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 - **2013 - 2017:** Bachelors in Applied Mathematics And Computer Science &#124; Chouaib Doukkali University, Morocco
 
 # 👨‍🏫 Teaching / Talks
+Lecturing experience
+- 2024
+  - **Instructor** for Statistical Learning &#124; [University of Campania Luigi Vanvitelli](https://www.matfis.unicampania.it/dipartimento/avvisi/655-avviso-inizio-corso-statistical-learning-data-analytics-2) &#124; 2023-2024
+  - **Seminar talk** at University of Naples Federico II
+  - **Seminar talk** at University of Campania Luigi Vanvitelli
 - 2023
-  - **Co-instructor** for Geometry of Data &#124; University of Virginia &#124; [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
-  - **Oral Presentation** at MICCAI 2023
-  - **Invited Speaker** for Research Speaker Series &#124; PathAI
-  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
-- 2022
-  - **Teaching Assistant** for Digital Signal Processing &#124; University of Virginia
-  - **Teaching Assistant** for Geometry of Data &#124; University of Virginia
-  - **Teaching Assistant** for Machine Learning &#124; University of Virginia
-  - **Python Instructor** for SOAR Scholars Program &#124; University of Virginia
-- 2019
-  - **Python Instructor** for Health Sciences Library &#124; University of Virginia
-  - **Assistant Capstone Advisor** for School of Data Science &#124; University of Virginia
-  - **Invited Speaker** for Applied Machine Learning Conference &#124; Tom Tom Festival 
+  - **Teaching Assistant** for Object-Oriented Programming &#124; University of Sidi Mohamed Ben Abdellah
+  - **Python Instructor** for Summer School &#124; University of Sidi Mohamed Ben Abdellah
