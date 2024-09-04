@@ -39,6 +39,7 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 - 2024
   - **Instructor** for Statistical Learning &#124; [University of Campania Luigi Vanvitelli](https://www.matfis.unicampania.it/dipartimento/avvisi/655-avviso-inizio-corso-statistical-learning-data-analytics-2) &#124; 2023-2024
   - **Seminar talk** at University of Naples Federico II
+     - Taught advanced statistical concepts to graduate students
   - **Seminar talk** at University of Campania Luigi Vanvitelli
 - 2023
   - **Teaching Assistant** for Object-Oriented Programming &#124; University of Sidi Mohamed Ben Abdellah
