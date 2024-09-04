@@ -38,14 +38,14 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
 # 👨‍🏫 Teaching / Talks
 - 2024
   - **Instructor** for Statistical Learning &#124; [University of Campania Luigi Vanvitelli](https://www.matfis.unicampania.it/dipartimento/avvisi/655-avviso-inizio-corso-statistical-learning-data-analytics-2) &#124; 2023-2024
-  - **Seminar talk** at University of Naples Federico II
+  - **Seminar talk** at [University of Naples Federico II](https://www.unina.it/home;jsessionid=EEE5F0CA8C1A87738007FFD216835F2D.node_publisher12)
      - Topic: "Credit Card Fraud Detection: Strategies and Solutions Understanding and Mitigating the Risks in the Digital Age"
-  - **Seminar talk** at University of Campania Luigi Vanvitelli
+  - **Seminar talk** at [University of Campania Luigi Vanvitelli](https://www.matfis.unicampania.it/)
      - Topic: "Introduction to Recommender Systems: Principles and Applications"
 - 2023
-  - **Teaching Assistant** for Object-Oriented Programming &#124; University of Sidi Mohamed Ben Abdellah
+  - **Teaching Assistant** for Object-Oriented Programming &#124; [University of Sidi Mohamed Ben Abdellah](https://www.fsdm.usmba.ac.ma/)
      - Assisted in lab sessions for 100+ undergraduate students
      - Provided one-on-one tutoring and graded assignments
-  - **Python Instructor** for Summer School &#124; University of Sidi Mohamed Ben Abdellah
+  - **Python Instructor** for Summer School &#124; [University of Sidi Mohamed Ben Abdellah](https://www.fsdm.usmba.ac.ma/)
      - Designed and delivered introductory Python course to 30+ students
      - Created hands-on coding exercises later adopted by the department
