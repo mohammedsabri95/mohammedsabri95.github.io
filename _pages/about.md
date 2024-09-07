@@ -52,3 +52,13 @@ Welcome! I'm **Mohammed Sabri**, a passionate researcher at the intersection of 
 
 # 🤝 Collaboration
 I'm always eager to collaborate on innovative projects and engage in discussions about data science and machine learning. If you're interested in connecting or exploring potential collaborations, please don't hesitate to reach out!
+
+<section id="contact">
+    <h2>📍 Contact</h2>
+    <p>Email: mohammed.sabri@unicampania.it</p>
+    <p>Phone: +39 334 7162144</p>
+    <p>Address: Via Calore 34, Caserta, Italy</p>
+    <div class="map-responsive">
+        <!-- Google Maps iframe here -->
+    </div>
+</section>
