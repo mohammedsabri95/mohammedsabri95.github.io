@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Mohammed Sabri. I am a **PhD Candidate** in [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [University of Campania “Luigi Vanvitelli”](https://international.unicampania.it/index.php/en/) under supervision of Prof. [Rosanna Verde](https://www.researchgate.net/profile/Rosanna_Verde).
+Welcome! I'm **Mohammed Sabri**, a passionate researcher at the intersection of statistical machine learning and data science. I'm a **PhD Candidate** in [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [the University of Campania "Luigi Vanvitelli"](https://international.unicampania.it/index.php/en/), working under the supervision of Prof. [Rosanna Verde](https://www.researchgate.net/profile/Rosanna_Verde). My research focuses on the synergy of supervised and unsupervised techniques in machine learning.
 
-Before joining my PhD, I received my **Master's Degree** in [Data Science and Machine Learning](https://lipn.univ-paris13.fr/~bennani/Web_Master_Info/Master_Info_EID2_Anglais.html) from galilee institute at [Sorbonne Paris Nord University](https://galilee.univ-paris13.fr/). And a **Master's Degree** in Applied Mathematics and Data Science from [Faculty of Sciences Dhar El Mehraz](http://www.fsdmfes.ac.ma/) at [Sidi Mohamed Ben Abdellah University](http://www.usmba.ac.ma/~usmba2/). The program of these Master's joins courses with a Computer Science main theme, those with Statistical data analysis, Data Science, Machine Learning, Advanced Databases, Data Mining, Business Analytics, and Data Warehousing main theme, and those with cultural courses. The elective courses may be chosen, in consultation with the student's advisor, to meet the interdisciplinary  and specialty distribution requirements. My fourth semester is devoted to an internship about the development of Intelligence Artifieciel is interested in the segmentation of clients under the supervision of Prof. [Hamid Tairi](https://scholar.google.fr/citations?user=eBF5ZcwAAAAJ&hl=fr). Since then I have been greatly attracted by the beauty of statistics in real life and collaboration with Machine Learning.
-
-My PhD thesis topic is the synergy of supervised and unsupervised techniques.
-
-
-I'm always excited to collaborate on new projects and discuss ideas in data science and machine learning. Feel free to reach out if you'd like to connect!
+# 💼 Research Interests
+- Statistical Machine Learning
+- High-dimensional Classification
+- Functional Data Analysis
+- Novel Classification Algorithms
+- Applications in Finance and Healthcare
 
 # 📝 Selected Publications
 
@@ -49,3 +49,6 @@ I'm always excited to collaborate on new projects and discuss ideas in data scie
   - **Python Instructor** for Summer School &#124; [University of Sidi Mohamed Ben Abdellah](https://www.fsdm.usmba.ac.ma/)
      - Designed and delivered introductory Python course to 30+ students
      - Created hands-on coding exercises later adopted by the department
+
+# 🤝 Collaboration
+I'm always eager to collaborate on innovative projects and engage in discussions about data science and machine learning. If you're interested in connecting or exploring potential collaborations, please don't hesitate to reach out!
