@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Mohammed Sabri**, a passionate researcher at the intersection of statistical machine learning and data science. I'm a **PhD Candidate** in [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [the University of Campania "Luigi Vanvitelli"](https://international.unicampania.it/index.php/en/), working under the supervision of Prof. [Rosanna Verde](https://www.researchgate.net/profile/Rosanna_Verde). My research focuses on the synergy of supervised and unsupervised techniques in machine learning.
+Welcome! I'm **Mohammed Sabri**, a researcher in theoretical machine learning and statistics. I am a **Postdoctoral Researcher** (STAT/01) in the [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [the University of Campania "Luigi Vanvitelli"](https://international.unicampania.it/index.php/en/) (host: Prof. Rosanna Verde); I received my PhD there in December 2024. My work develops statistical learning methods for sustainability and climate risk, with interests in high-dimensional classification, functional data, and optimal transport.
 
 # 💼 Research Interests
 - Statistical Machine Learning
