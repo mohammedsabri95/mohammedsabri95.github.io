@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm **Mohammed Sabri**, a researcher in theoretical machine learning and statistics. I am a **Postdoctoral Researcher** (STAT/01) in the [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [the University of Campania "Luigi Vanvitelli"](https://international.unicampania.it/index.php/en/) (host: Prof. Rosanna Verde); I received my PhD there in December 2024. My work develops statistical learning methods for sustainability and climate risk, with interests in high-dimensional classification, functional data, and optimal transport.
+Welcome! I'm **Mohammed Sabri**, a researcher in theoretical machine learning and statistics. I am a **Postdoctoral Researcher** (STAT/01) in the [the Department of Mathematics and Physics](https://www.matfis.unicampania.it/) at [the University of Campania "Luigi Vanvitelli"](https://international.unicampania.it/index.php/en/) (host: Prof. [Rosanna Verde](https://www.researchgate.net/profile/Rosanna_Verde)); I received my PhD there in December 2024. My work develops statistical learning methods for sustainability and climate risk, with interests in high-dimensional classification, functional data, and optimal transport.
 
 # 💼 Research Interests
 - Statistical Machine Learning
@@ -18,6 +18,11 @@ Welcome! I'm **Mohammed Sabri**, a researcher in theoretical machine learning an
 - Applications in Finance and Healthcare
 
 # 📝 Selected Publications
+
+> ## <span style="font-size: 0.7em;">FWLMkNN: Efficient functional K-nearest neighbor based on clustering and functional data analysis.</span> <br>
+> **Sabri M.**, Verde R. and Balzanella A. <br>
+> **<span style="font-size: 0.8em;">Journal of Expert Systems with Applications</span>** 41, 264–288 (2024). <br>
+> [paper](https://www.sciencedirect.com/science/article/pii/S0957417425021864)
 
 > ## <span style="font-size: 0.7em;">A Novel Classification Algorithm Based on the Synergy Between Dynamic Clustering with Adaptive Distances and K-Nearest Neighbors.</span> <br>
 > **Sabri M.**, Verde R., Maturo F., Balzanella A., Tairi H., Yahyaouy A., and Riffi J. <br>
